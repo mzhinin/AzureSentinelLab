@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-Within our laboratory environment, I established Azure Sentinel, a Security Information and Event Management (SIEM) system, integrating it with a live virtual machine serving as a honeypot. Our objective is to actively monitor and analyze real-time instances of RDP Brute Force attacks originating globally. To enhance our analysis, a tailored PowerShell script will be employed to retrieve geolocation data pertaining to the attackers. This information will be leveraged to plot their geographical locations on the Azure Sentinel Map, enabling comprehensive visual insights into the attack origins.
+Within my laboratory environment, I established Azure Sentinel, a Security Information and Event Management (SIEM) system, integrating it with a live virtual machine serving as a honeypot. The objective is to actively monitor and analyze real-time instances of RDP Brute Force attacks originating globally. To enhance my analysis, a tailored PowerShell script will be employed to retrieve geolocation data pertaining to the attackers. This information will be leveraged to plot their geographical locations on the Azure Sentinel Map, enabling comprehensive visual insights into the attack origins.
 <br />
 
 
